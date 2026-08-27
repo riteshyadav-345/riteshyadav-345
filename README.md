@@ -22,12 +22,12 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ritesh-yadav-345x/"><img src="https://img.shields.io/badge/LINKEDIN-00FFF2?style=for-the-badge&logo=linkedin&logoColor=0f0c29&labelColor=0f0c29" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/EMAIL-00FFF2?style=for-the-badge&logo=gmail&logoColor=0f0c29&labelColor=0f0c29" /></a>
+<a href="mailto:ritesh123@gmail.com"><img src="https://img.shields.io/badge/EMAIL-00FFF2?style=for-the-badge&logo=gmail&logoColor=0f0c29&labelColor=0f0c29" /></a>
 <a href="https://github.com/riteshyadav-345"><img src="https://img.shields.io/badge/GITHUB-00FFF2?style=for-the-badge&logo=github&logoColor=0f0c29&labelColor=0f0c29" /></a>
 <img src="https://komarev.com/ghpvc/?username=riteshyadav-345&style=for-the-badge&color=00FFF2&labelColor=0f0c29&label=VISITORS" />
 </p>
 
-<p align="center"><sub>⚠️ swap the LinkedIn URL + email above before pushing — placeholders for now</sub></p>
+<!-- <p align="center"><sub>⚠️ swap the LinkedIn URL + email above before pushing — placeholders for now</sub></p> -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,25&height=3&width=1000" />
 
